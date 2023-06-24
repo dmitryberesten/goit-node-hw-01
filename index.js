@@ -39,3 +39,5 @@ function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv); // Виклик функції invokeAction(argv), передаючи об'єкт з опціями та їх значеннями
+
+// Діма Берестень
